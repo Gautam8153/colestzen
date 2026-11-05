@@ -1,2 +1,0 @@
-# colestzen
-Static site

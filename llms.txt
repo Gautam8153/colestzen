@@ -1,0 +1,26 @@
+# ColestZen
+
+> ColestZen is a Cholesterol & Heart Health Supplement. ColestZen is a premium cholesterol and heart health formula that has already generated strong early performance metrics and positive customer response. It is designed to support healthy cholesterol levels and overall cardiovascular wellness using a blend of carefully selected ingredients. While the exact ingredient list is not publicly disclosed, ColestZen is positioned as a daily supplement for those looking to maintain heart health and cholesterol balance.
+
+## Pages
+- [Home — overview, pricing and FAQ](https://colestzen.onrender.com/)
+- [What ColestZen is](https://colestzen.onrender.com/what-is-product.html)
+- [How ColestZen works](https://colestzen.onrender.com/how-it-works.html)
+- [ColestZen ingredients, explained individually](https://colestzen.onrender.com/ingredients.html)
+- [ColestZen benefits](https://colestzen.onrender.com/benefits.html)
+- [ColestZen customer reviews](https://colestzen.onrender.com/reviews.html)
+- [ColestZen frequently asked questions](https://colestzen.onrender.com/faq.html)
+
+## Blog
+- [What To Know Before Trying ColestZen](https://colestzen.onrender.com/blog/what-to-know-before-trying.html): A clear, honest look at ColestZen — what it contains, how it is used, what it costs, and the guarantee behind it — before you decide to order.
+- [How To Read A Supplement Label](https://colestzen.onrender.com/blog/how-to-read-a-supplement-label.html): Serving size, proprietary blends and other ingredients explained — using ColestZen's own label as a real example of what to look for.
+- [ColestZen: An Honest Review](https://colestzen.onrender.com/blog/colestzen-honest-review.html): An honest look at ColestZen — what it claims to do, what it actually contains, what it costs, and who it is realistically a good fit for.
+- [Plant Sterols vs Niacin: What Each Does In ColestZen](https://colestzen.onrender.com/blog/plant-sterols-vs-niacin.html): Plant Sterols and Niacin are both in ColestZen but play different roles — here is what each one actually does in the formula.
+- [Daily Habits That Complement ColestZen](https://colestzen.onrender.com/blog/daily-habits-that-complement-it.html): Simple daily habits — hydration, timing, consistency — that pair well with ColestZen as part of a cholesterol & heart health routine.
+- [ColestZen FAQ: Dosage, Timing, Who Should Skip It](https://colestzen.onrender.com/blog/colestzen-faq.html): Common questions about ColestZen — dosage, timing, the guarantee, and who should skip it — answered directly.
+- [Terms of Use](https://colestzen.onrender.com/terms.html)
+- [Privacy Policy](https://colestzen.onrender.com/privacy-policy.html)
+- [Disclaimer](https://colestzen.onrender.com/disclaimer.html)
+- [Refund Policy](https://colestzen.onrender.com/refund-policy.html)
+- [About Us](https://colestzen.onrender.com/about.html)
+- [Contact Us](https://colestzen.onrender.com/contact.html)
